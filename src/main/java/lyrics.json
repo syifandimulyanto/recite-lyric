@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "subject": ["the horse", "the hound", "the horn"],
+    "body": "the horse and the hound and the horn that belonged to"
+  },
+  {
+    "id": 2,
+    "subject": ["the farmer"],
+    "body": "the farmer sowing his corn that kept"
+  },
+  {
+    "id": 3,
+    "subject": ["the rooster"],
+    "body": "the rooster that crowed in the morn that woke"
+  },
+  {
+    "id": 4
+    "subject": ["the priest"],
+    "body": "the priest all shaven and shorn that married"
+  },
+  {
+    "id": 5,
+    "subject": ["the man"],
+    "body": "the man all tattered and torn that kissed"
+  },
+  {
+    "id": 6,
+    "subject": ["the maiden"],
+    "body": "the maiden all forlorn that milked"
+  },
+  {
+    "id": 7,
+    "subject": ["the cow"],
+    "body": "the cow with the crumpled horn that tossed"
+  },
+  {
+    "id": 8,
+    "subject": ["the dog"],
+    "body": "the dog that worried"
+  },
+  {
+    "id": 9,
+    "subject": ["the cat"],
+    "body": "the cat that killed"
+  },
+  {
+    "id": 10,
+    "subject": ["the rat"],
+    "body": "the rat that ate"
+  },
+  {
+    "id": 11,
+    "subject": ["the malt"],
+    "body": "the malt that lay in"
+  },
+  {
+    "id": 12
+    "subject": ["the house"],
+    "body": "the house that Jack built"
+  }
+]
